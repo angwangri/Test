@@ -1,0 +1,36 @@
+.buy-wrapper {
+  padding: 0px 15px 30px;
+  font-size: 14px;
+}
+.bond-buy-comfirm {
+  font-size: 14px;
+  line-height: 22px;
+  padding-bottom: 30px;
+  .text-justy {
+    text-align: justify;
+  }
+  .mspot {
+    padding-bottom: 10px;
+  }
+  .lh18 {
+    line-height: 18px !important;
+  }
+  .text-blod {
+    font-weight: bold;
+  }
+
+  // .col-5::after {
+  //   content: ':';
+  //   position: absolute;
+  //   right: 0;
+  //   padding-right: 0;
+  // }
+  h2 {
+    margin-bottom: 20px;
+  }
+  p {
+    font-size: 14px;
+    line-height: 22px;
+    margin: 0;
+  }
+}

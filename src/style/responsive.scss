@@ -1,0 +1,26 @@
+@media (max-width: 410px) {
+  body {
+    .btn-light {
+    }
+    .input-group {
+      input {
+        &.number {
+          width: 20px;
+          flex: 20px;
+          -webkit-flex: auto;
+        }
+      }
+      &.number-field {
+        padding-left: 10px;
+        padding-right: 10px;
+      }
+    }
+  }
+}
+@media (max-width: 375px) {
+  .footer-wrapper {
+    a {
+      font-size: 8px;
+    }
+  }
+}
